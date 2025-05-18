@@ -1,4 +1,4 @@
-<h1 align="center"> L0p4 Toolkit </h1>
+<h1 align="center"> 0xleopards Toolkit </h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/HaxL0p4/L0p4-Toolkit?style=for-the-badge&color=orange">
